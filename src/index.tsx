@@ -5,8 +5,8 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import userflow from "userflow.js";
 
-userflow.init("USERFLOW_TOKEN");
-userflow.identify("USER_ID", {
+userflow.init("ct_vbjtvlnpq5cllbvkxno3jtmx4y");
+userflow.identify("12345", {
   name: "Dave",
   email: "dave.cooper@elephant.healthcare",
   signed_up_at: "2022-07-20T14:08:36.244Z",
